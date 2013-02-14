@@ -1,3 +1,11 @@
+==========
+Repo Notes
+==========
+
+Originaly from https://bitbucket.org/ubernostrum/django-registration
+
+Fixes for 1.5 from https://bitbucket.org/LinnTroll/django-registration-1.5
+
 ========================
 Django user registration
 ========================
